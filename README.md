@@ -1,0 +1,2 @@
+# CharacterCustomization
+基于AssetBundle的角色换装功能的实现
